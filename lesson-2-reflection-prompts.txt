@@ -13,13 +13,23 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	Checking the status of a commit, before we finish it, will help us make sure we have a commit per change.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	It makes a big difference and offers me the possibility of heaving multiple variations of the same app
+	with a clear structure of "what is what".
+
 How do the diagrams help you visualize the branch structure?
+
+	Working with diagrams helps me alot. It's much easier for me to understand and visualize the structure of a project.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+	A new commit results from a merging of two branches. We represent it like that so we know which are
+	the parrents of the resulted commit and how to retrace our steps in case we need to.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
