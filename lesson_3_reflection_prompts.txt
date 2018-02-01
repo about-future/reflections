@@ -33,4 +33,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When i want to try something new, when i want to check an idea or another version of an app.
+    When i'm sure the new idea is valid, i can merge the separate branch in the master branch.
